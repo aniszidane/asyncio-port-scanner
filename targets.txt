@@ -1,0 +1,6 @@
+# Example targets (one per line)
+# IPs or domains
+
+8.8.8.8
+example.com
+192.168.1.1
